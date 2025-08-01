@@ -18,9 +18,8 @@ function FooterOne() {
                                         </div>
                                         <div className="info">
                                             <span>Have Question? Call Us 24/7</span>
-                                            <a href="#" className="number">
-                                                +258 3692 2569
-                                            </a>
+                                            <a className="number">
+                                            +12345 6790 1234                                            </a>
                                         </div>
                                     </div>
                                     <div className="opening-hour">
@@ -48,19 +47,19 @@ function FooterOne() {
                                     <div className="footer-nav">
                                         <ul>
                                             <li>
-                                                <a href="#">Delivery Information</a>
+                                                <a>Delivery Information</a>
                                             </li>
                                             <li>
-                                                <a href="#">Privacy Policy</a>
+                                                <a>Privacy Policy</a>
                                             </li>
                                             <li>
-                                                <a href="#">Terms &amp; Conditions</a>
+                                                <a>Terms &amp; Conditions</a>
                                             </li>
                                             <li>
-                                                <a href="#">Support Center</a>
+                                                <a>Support Center</a>
                                             </li>
                                             <li>
-                                                <a href="#">Careers</a>
+                                                <a>Careers</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -72,19 +71,19 @@ function FooterOne() {
                                     <div className="footer-nav">
                                         <ul>
                                             <li>
-                                                <a href="#">Contact Us</a>
+                                                <a>Contact Us</a>
                                             </li>
                                             <li>
-                                                <a href="#">Information</a>
+                                                <a>Information</a>
                                             </li>
                                             <li>
-                                                <a href="#">About Us</a>
+                                                <a>About Us</a>
                                             </li>
                                             <li>
-                                                <a href="#">Careers</a>
+                                                <a>Careers</a>
                                             </li>
                                             <li>
-                                                <a href="#">Nest Stories</a>
+                                                <a>Nest Stories</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -96,19 +95,19 @@ function FooterOne() {
                                     <div className="footer-nav">
                                         <ul>
                                             <li>
-                                                <a href="#">Cancellation &amp; Returns</a>
+                                                <a>Cancellation &amp; Returns</a>
                                             </li>
                                             <li>
-                                                <a href="#">Report Infringement</a>
+                                                <a>Report Infringement</a>
                                             </li>
                                             <li>
-                                                <a href="#">Payments</a>
+                                                <a>Payments</a>
                                             </li>
                                             <li>
-                                                <a href="#">Shipping</a>
+                                                <a>Shipping</a>
                                             </li>
                                             <li>
-                                                <a href="#">FAQ</a>
+                                                <a>FAQ</a>
                                             </li>
                                         </ul>
                                     </div>
@@ -140,27 +139,27 @@ function FooterOne() {
                                     <span>Follow Us:</span>
                                     <ul>
                                         <li>
-                                            <a href="#">
+                                            <a>
                                                 <i className="fa-brands fa-facebook-f" />
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a>
                                                 <i className="fa-brands fa-twitter" />
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a>
                                                 <i className="fa-brands fa-youtube" />
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a>
                                                 <i className="fa-brands fa-whatsapp" />
                                             </a>
                                         </li>
                                         <li>
-                                            <a href="#">
+                                            <a>
                                                 <i className="fa-brands fa-instagram" />
                                             </a>
                                         </li>
@@ -183,9 +182,9 @@ function FooterOne() {
                         <div className="col-lg-12">
                             <div className="copyright-between-1">
                                 <p className="disc">
-                                    Copyright 2025 <a href="#">DAILY BASKET</a>. All rights reserved.
+                                    Copyright 2025 <a>DAILY BASKET</a>. All rights reserved.
                                 </p>
-                                <a href="#" className="playstore-app-area">
+                                <a className="playstore-app-area">
                                     <span>Download App</span>
                                     <img src="assets/images/payment/02.png" alt="" />
                                     <img src="assets/images/payment/03.png" alt="" />

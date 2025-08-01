@@ -41,7 +41,7 @@ function ComponentName() {
               <div className="bottom">
                 <a href="#" className="number">
                   <i className="fa-solid fa-phone-rotary" />
-                  +25896 3158 3228
+                  +12345 6790 1234
                 </a>
               </div>
             </div>
@@ -62,8 +62,7 @@ function ComponentName() {
               <div className="bottom">
                 <a href="#" className="number">
                   <i className="fa-solid fa-phone-rotary" />
-                  +25896 3158 3228
-                </a>
+                  +12345 6790 1234                </a>
               </div>
             </div>
           </div>
@@ -83,8 +82,7 @@ function ComponentName() {
               <div className="bottom">
                 <a href="#" className="number">
                   <i className="fa-solid fa-phone-rotary" />
-                  +25896 3158 3228
-                </a>
+                  +12345 6790 1234                </a>
               </div>
             </div>
           </div>
@@ -104,8 +102,7 @@ function ComponentName() {
               <div className="bottom">
                 <a href="#" className="number">
                   <i className="fa-solid fa-phone-rotary" />
-                  +25896 3158 3228
-                </a>
+                  +12345 6790 1234                </a>
               </div>
             </div>
           </div>

@@ -13,7 +13,7 @@ function FooterTwo() {
                                     <div className="footer-single-wixed-two start">
                                         <a href="#" className="logo-area">
                                             <img
-                                                src="assets/images/logo/logo-02.svg"
+                                                src="assets/images/logo/logo-02.png"
                                                 alt="logo-area"
                                                 className="logo"
                                             />
@@ -125,7 +125,7 @@ function FooterTwo() {
                                                 <div className="information-area">
                                                     <p className="disc">
                                                         Call us between 8:00 AM - 12PM <br />
-                                                        <a href="#">+25896 3158 3228</a>
+                                                        <a href="#">+12345 6790 1234</a>
                                                     </p>
                                                 </div>
                                             </div>

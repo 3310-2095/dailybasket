@@ -152,7 +152,7 @@ function HeaderOne() {
                                         </div>
                                     </div>
                                     <div className="contact-number-area">
-                                        <p>Need help? Call Us: <a href="tel:+4733378901">+258 3268 21485</a></p>
+                                        <p>Need help? Call Us: <a href="tel:+4733378901">+12345 6790 1234</a></p>
                                     </div>
                                 </div>
                             </div>
@@ -208,7 +208,7 @@ function HeaderOne() {
                             <div className="col-lg-12">
                                 <div className="logo-search-category-wrapper">
                                     <a href="/" className="logo-area">
-                                        <img src="/assets/images/logo/logo-01.svg" alt="logo-main" className="logo" />
+                                        <img src="/assets/images/logo/logo-01.png" alt="logo-main" className="logo" />
                                     </a>
                                     <div className="category-search-wrapper">
                                         <div className="category-btn category-hover-header">

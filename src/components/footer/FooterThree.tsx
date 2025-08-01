@@ -18,8 +18,7 @@ function FooterThree() {
                                         <div className="info">
                                             <span>Have Question? Call Us 24/7</span>
                                             <a href="#" className="number">
-                                                +258 3692 2569
-                                            </a>
+                                            +12345 6790 1234                                            </a>
                                         </div>
                                     </div>
                                     <div className="opening-hour">

@@ -211,7 +211,7 @@ function HeaderThree() {
                                         <div className="contact-number-area">
                                             <p>
                                                 Need help? Call Us:
-                                                <a href="#">+258 3268 21485</a>
+                                                <a href="#">+12345 6790 1234</a>
                                             </p>
                                         </div>
                                     </div>
@@ -226,7 +226,7 @@ function HeaderThree() {
                                     <div className="logo-search-category-wrapper">
                                         <a href="/" className="logo-area">
                                             <img
-                                                src="assets/images/logo/logo-02.svg"
+                                                src="assets/images/logo/logo-02.png"
                                                 alt="logo-main"
                                                 className="logo"
                                             />
@@ -327,7 +327,7 @@ function HeaderThree() {
                                     <div className="logo-search-category-wrapper">
                                         <a href="index.html" className="logo-area">
                                             <img
-                                                src="assets/images/logo/logo-01.svg"
+                                                src="assets/images/logo/logo-01.png"
                                                 alt="logo-main"
                                                 className="logo"
                                             />

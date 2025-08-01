@@ -45,7 +45,7 @@ export default function Home() {
                                             <h3 className="title">Berlin Germany Store</h3>
                                             <p>259 Daniel Road, FKT 2589 Berlin, Germany.</p>
                                             <a href="#" className="number">
-                                                +856 (76) 259 6328
+                                            +12345 6790 1234
                                             </a>
                                             <a href="#" className="email">
                                                 info@example.com
@@ -60,7 +60,7 @@ export default function Home() {
                                             <h3 className="title">Frankfurt Germany Store</h3>
                                             <p>259 Daniel Road, FKT 2589 Berlin, Germany.</p>
                                             <a href="#" className="number">
-                                                +856 (76) 259 6328
+                                            +12345 6790 1234
                                             </a>
                                             <a href="#" className="email">
                                                 info@example.com

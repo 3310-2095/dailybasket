@@ -73,7 +73,7 @@ function ComponentName() {
                             <div className="logo-search-category-wrapper after-md-device-header">
                                 <a href="index" className="logo-area">
                                     <img
-                                        src="/assets/images/logo/logo-01.svg"
+                                        src="/assets/images/logo/logo-01.png"
                                         alt="logo-main"
                                         className="logo"
                                     />

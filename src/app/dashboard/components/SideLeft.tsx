@@ -12,7 +12,7 @@ function SideLeft({ collapsed }: SideLeftProps) {
     <div className={`sidebar_left ${collapsed ? 'collapsed' : ''}`}>
       <a href="/dashboard" className="logo">
         <Image
-          src="/assets/images-dashboard/logo/logo.svg"
+          src="/assets/images-dashboard/logo/logo.png"
           alt="logo"
           width={131}
           height={32}
