@@ -481,7 +481,7 @@ const CompareElements: React.FC = () => {
                     <h6 className="title">Available offers</h6>
                     <div className="single-offer-area">
                       <div className="icon"><img src="/assets/images/shop/01.svg" alt="icon" /></div>
-                      <div className="details"><p>Get 5% instant discount for the 1st Flipkart Order using Ekomart UPI</p></div>
+                      <div className="details"><p>Get 5% instant discount for the 1st Flipkart Order using DAILY BASKET UPI</p></div>
                     </div>
                     <div className="single-offer-area">
                       <div className="icon"><img src="/assets/images/shop/02.svg" alt="icon" /></div>

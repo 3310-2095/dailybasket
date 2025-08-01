@@ -197,7 +197,7 @@ function HeaderOne() {
                                         <a href="#">Wishlist</a>
                                         <a href="#">Order Tracking</a>
                                     </div>
-                                    <p>Welcome to our Organic store&nbsp;EkoMart!</p>
+                                    <p>Welcome to our Organic store&nbsp;DAILY BASKET!</p>
                                     <div className="follow-us-social">
                                         <span>Follow Us:</span>
                                         <div className="social">

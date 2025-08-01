@@ -144,7 +144,7 @@ const { compareItems } = useCompare();
                       <a href="#">Wishlist</a>
                       <a href="#">Order Tracking</a>
                     </div>
-                    <p>Welcome to our Organic store EkoMart!</p>
+                    <p>Welcome to our Organic store DAILY BASKET!</p>
                     <div className="follow-us-social">
                       <span>Follow Us:</span>
                       <div className="social">
@@ -178,7 +178,7 @@ const { compareItems } = useCompare();
                           <div className="logo-search-category-wrapper style-five-call-us">
                             <a href="/" className="logo-area">
                               <img
-                                src="assets/images/logo/logo-01.svg"
+                                src="assets/images/logo/logo-01.png"
                                 alt="logo-main"
                                 className="logo"
                               />

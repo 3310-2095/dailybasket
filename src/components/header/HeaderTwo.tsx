@@ -137,7 +137,7 @@ const { compareItems } = useCompare();
                             <div className="row">
                                 <div className="col-lg-12">
                                     <div className="hader-top-between-two">
-                                        <p>Welcome to our Organic store EkoMart!</p>
+                                        <p>Welcome to our Organic store DAILY BASKET!</p>
                                         <ul className="nav-header-top">
                                             <li>
                                                 <a href="/trackorder">Track Order</a>
